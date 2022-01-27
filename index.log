@@ -1,0 +1,34 @@
+info: Jan-24-2022 21:12:09: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:00: number is not exist in the array
+info: Jan-24-2022 21:13:44: number is not exist in the array
+warn: Jan-24-2022 21:14:17: null was inserted
+warn: Jan-24-2022 21:15:14: undefined was inserted
+info: Jan-24-2022 21:15:19: number exist in the array
+info: Jan-24-2022 21:21:31: number exist in the array
+info: Jan-24-2022 21:22:21: number exist in the array
+error: Jan-27-2022 13:29:09: undefined was inserted
+error: Jan-27-2022 13:30:58: undefined was inserted
+error: Jan-27-2022 13:31:06: undefined was inserted
+info: Jan-27-2022 13:31:17: number exist in the array
+info: Jan-27-2022 13:31:28: number is not exist in the array
+info: Jan-27-2022 13:41:44: number is not exist in the array
+info: Jan-27-2022 13:44:11: number is not exist in the array
+info: Jan-27-2022 13:44:11: the sum of 5 + 5 is 10
+error: Jan-27-2022 13:44:11: one of the fields was undefined
+info: Jan-27-2022 13:44:11: the sum of 2 + undefined is NaN
+info: Jan-27-2022 13:47:54: number is not exist in the array
+info: Jan-27-2022 13:47:54: the sum of 5 + 5 is 10
+error: Jan-27-2022 13:47:54: one of the fields was undefined
+info: Jan-27-2022 13:47:54: the sum of 2 + undefined is NaN
+info: Jan-27-2022 13:58:51: number is not exist in the array
+info: Jan-27-2022 13:58:51: the sum of 5 + 5 is 10
+error: Jan-27-2022 13:58:51: one of the fields was undefined
+info: Jan-27-2022 13:58:51: the sum of 2 + undefined is NaN
